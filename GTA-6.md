@@ -1,6 +1,6 @@
-# GTA VI 1
+# GTA VI   
 
-# Welcome to the World of Gaming!
+# Welcome to the World of Gaming! lets go gaming
 
 ## Explore the Exciting World of GTA 6
 
