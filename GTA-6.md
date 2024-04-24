@@ -1,7 +1,7 @@
 # GTA VI   
-
-# Welcome to the World of Gaming! lets go gaming
-
+ 
+# Welcome to the World of Gaming!
+ 
 ## Explore the Exciting World of GTA 6
 
 Are you ready for the next big adventure in gaming? Look no further than GTA 6! Get ready to immerse yourself in the vibrant and chaotic world of Grand Theft Auto.
@@ -30,5 +30,5 @@ Are you ready to join the action? Whether you're a seasoned gamer or new to the 
 Follow us on social media and stay updated on the latest news, updates, and releases in the world of gaming. Don't miss out on the next big thing!
 
 ---
- gta lessgo 
+ GTA 
 © 2024 Gaming Universe. All rights reserved. 
